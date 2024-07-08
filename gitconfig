@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = scytricia@gmail.com
+	name = Tricia Song
